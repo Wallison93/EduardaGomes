@@ -1,0 +1,38 @@
+.body-atributos{
+    background-color: #7B7B7B;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.div-atributos{
+    width: 60%;
+    height: cover;
+    padding: 10px 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 2rem;
+    
+}
+
+.a-atributos{
+    text-decoration: none;
+    color:aliceblue;
+    font-size: 2.5vh;
+}
+
+@media (max-width: 780px) {
+    .div-atributos{
+        width: 100%;
+        padding: 10px 5px;
+        margin-bottom: 10px;
+        margin-top: 10;
+        gap: 0.5rem;
+    }
+    .a-atributos{
+        font-size: 1.5vh;
+    }
+}

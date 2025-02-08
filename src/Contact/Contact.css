@@ -1,0 +1,119 @@
+.body-contact {
+    background-color: #7B7B7B;
+    height: cover;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+}
+
+.div-1 {
+    padding-top: 60px;
+
+}
+
+.div-2 {
+    padding-top: 30px;
+}
+
+.div-3 {
+    padding-top: 40px;
+    padding-bottom: 30PX;
+    gap: 5rem;
+}
+
+
+
+.icone-email {
+    width: 8vh;
+    height: 8vh;
+}
+
+.icone-job {
+    width: 8vh;
+    height: 8vh;
+}
+
+.icone-andress {
+    width: 8vh;
+    height: 8vh;
+    color: linear-gradient(120deg, #4285F4, #34A853, #FBBC05, #EA4335);
+}
+
+
+
+
+
+.div-email {
+    align-items: center;
+    display: flex;
+}
+
+.div-job {
+    align-items: center;
+    display: flex;
+}
+
+.div-andress {
+    align-items: center;
+    display: flex;
+}
+
+
+
+.text-contact {
+    font-size: 7vh;
+    padding-top: 10px;
+    color: #D9D7D8;
+    font-family: 'anallop';
+   /*  -webkit-text-stroke: 0.8px rgb(77, 75, 75); */
+}
+
+.text-hi {
+    font-size: 4vh;
+    padding-top: 50px;
+    font-family: 'anallop';
+}
+
+.text-iopen {
+    color: #D9D7D8;
+}
+
+.contato-a {
+    font-size: 2vh;
+    text-decoration: none;
+    color: white;
+}
+
+
+@media (max-width: 780px) {
+
+    .div-3 {
+        padding-top: 30px;
+        gap: 2rem;
+    }
+
+    .icone-email {
+        width: 5vh;
+        height: 5vh;
+    }
+    .icone-job {
+        width: 5vh;
+        height: 5vh;
+    }
+    .icone-andress {
+        width: 5vh;
+        height: 5vh;
+    }
+
+    .contato-a {
+        font-size: 1.3vh;
+        padding-bottom: 15px;
+    }
+    .text-contact {
+        font-size: 5vh;
+    }
+
+}

@@ -1,0 +1,34 @@
+
+/* fonte baixa e colocada na pasta do projeto */
+@font-face {
+  font-family: 'Southern';
+  src: local('Southern'), url('./fonts/southern-lights-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'Kanit';
+  src: local('Kanit'), url('./fonts/Kanit-Regular.ttf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fontKanit{
+  font-family: 'Kanit';
+ }  
+
+
+ @font-face {
+  font-family: 'anallop';
+  src: local('anallop'), url('./fonts/anallop.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.fontanallop{
+  font-family: 'anallop';
+ }  
+
+
