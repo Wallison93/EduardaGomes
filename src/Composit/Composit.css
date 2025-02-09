@@ -34,6 +34,9 @@
 
 
 @media (max-width: 780px) {
+    .container-composit {
+        height: 100%;
+    }
 
     .foto1-composit{
         height:70vh;
