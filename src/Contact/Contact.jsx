@@ -5,9 +5,6 @@ import { IoLocationOutline } from "react-icons/io5";
 
 export default function Contact() {
 
-
-
-
     return (
         <body className='container-fluid body-contact'>
             <h1 className='text-contact'>
@@ -39,10 +36,10 @@ export default function Contact() {
 
                 
 
-                <div className='flex-column div-job'>
+{/*                 <div className='flex-column div-job'>
                     <MdWorkOutline  className='icone-email' />
                     <h5>FORD MODELS</h5>
-                </div>
+                </div> */}
 
                 <div className='flex-column div-andress'>
                     <IoLocationOutline className='icone-email' />
