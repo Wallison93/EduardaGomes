@@ -73,3 +73,22 @@
   flex-direction: column;
 }
 
+.button-download{
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background-color: transparent;
+  color:white;
+  border: none;
+  border-radius: 12px;
+  padding: 10px;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  z-index: 9999;
+  gap: 5px;
+}
+.icone-download{
+  width: 26px;
+  height: 28px;
+}

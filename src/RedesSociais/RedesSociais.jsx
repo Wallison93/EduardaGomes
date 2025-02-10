@@ -4,6 +4,7 @@ import { BsInstagram } from "react-icons/bs";
 import { FaTelegram } from "react-icons/fa";
 import { FaPinterest } from "react-icons/fa";
 import { FaTiktok } from "react-icons/fa";
+import { IoMdCloudDownload } from "react-icons/io";
 
 import './RedesSociais.css'
 
@@ -42,6 +43,16 @@ export default function RedesSociais() {
                 <button onClick={()=>IrParaOTiktok()} className='buttonRedesSociais'> 
                         <FaTiktok className=" "/>
                 </button>                  
+            </div>
+
+
+            <div>
+                <button className="button-download">
+                    <IoMdCloudDownload className="icone-download"/>
+                    <p className="mt-3">
+                        Download my Composit as PDF
+                    </p>
+                </button>
             </div>
 
 
