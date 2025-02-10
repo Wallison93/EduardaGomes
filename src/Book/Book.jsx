@@ -32,94 +32,94 @@ export default function Book() {
             <br /><br />
             <div className='container-fluid div-base-card-book'>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f1} alt='foto1' loading="lazy"/>
+                    <img className='fotobook' src={f1} alt='foto1' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f2} alt='foto2' loading="lazy"/>
+                    <img className='fotobook' src={f2} alt='foto2' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f3} alt='foto3' loading="lazy"/>
+                    <img className='fotobook' src={f3} alt='foto3' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f5} alt='foto5' loading="lazy" />
-                </div>
-            </div>
-
-            <div className='container-fluid div-base-card-book'>
-                <div class="card-book shadow">
-                    <img className='fotobook' src={f6} alt='foto1' loading="lazy"/>
-                </div>
-                <div class="card-book shadow">
-                    <img className='fotobook' src={f7} alt='foto2' loading="lazy"/>
-                </div>
-                <div class="card-book shadow">
-                    <img className='fotobook' src={f8} alt='foto3' loading="lazy"/>
-                </div>
-                <div class="card-book shadow">
-                    <img className='fotobook' src={f9} alt='foto5' loading="lazy"/>
+                    <img className='fotobook' src={f5} alt='foto5' />
                 </div>
             </div>
 
             <div className='container-fluid div-base-card-book'>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f14} alt='foto1' loading="lazy"/>
+                    <img className='fotobook' src={f6} alt='foto1' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f11} alt='foto2'loading="lazy" />
+                    <img className='fotobook' src={f7} alt='foto2' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f12} alt='foto3' loading="lazy"/>
+                    <img className='fotobook' src={f8} alt='foto3' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f13} alt='foto5' loading="lazy"/>
+                    <img className='fotobook' src={f9} alt='foto5' />
+                </div>
+            </div>
+
+            <div className='container-fluid div-base-card-book'>
+                <div class="card-book shadow">
+                    <img className='fotobook' src={f14} alt='foto1' />
+                </div>
+                <div class="card-book shadow">
+                    <img className='fotobook' src={f11} alt='foto2' />
+                </div>
+                <div class="card-book shadow">
+                    <img className='fotobook' src={f12} alt='foto3' />
+                </div>
+                <div class="card-book shadow">
+                    <img className='fotobook' src={f13} alt='foto5' />
                 </div>
             </div>
 
 
             <div className='container-fluid div-base-card-book'>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f10} alt='foto1' loading="lazy"/>
+                    <img className='fotobook' src={f10} alt='foto1' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f18} alt='foto1' loading="lazy"/>
+                    <img className='fotobook' src={f18} alt='foto1' />
                 </div>
 
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f16} alt='foto3' loading="lazy"/>
+                    <img className='fotobook' src={f16} alt='foto3' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f17} alt='foto5' loading="lazy"/>
+                    <img className='fotobook' src={f17} alt='foto5' />
                 </div>
             </div>
 
             <div className='container-fluid div-base-card-book'>
             <div class="card-book shadow">
-                    <img className='fotobook' src={f15} alt='foto2' loading="lazy"/>
+                    <img className='fotobook' src={f15} alt='foto2' />
                 </div>
 
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f19} alt='foto2' loading="lazy"/>
+                    <img className='fotobook' src={f19} alt='foto2' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f20} alt='foto3' loading="lazy"/>
+                    <img className='fotobook' src={f20} alt='foto3' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f21} alt='foto5' loading="lazy"/>
+                    <img className='fotobook' src={f21} alt='foto5' />
                 </div>
             </div>
 
             <div className='container-fluid div-base-card-book'>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f22} alt='foto1' loading="lazy"/>
+                    <img className='fotobook' src={f22} alt='foto1' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f23} alt='foto2' loading="lazy"/>
+                    <img className='fotobook' src={f23} alt='foto2' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f24} alt='foto3' loading="lazy"/>
+                    <img className='fotobook' src={f24} alt='foto3' />
                 </div>
                 <div class="card-book shadow">
-                    <img className='fotobook' src={f25} alt='foto5' loading="lazy"/>
+                    <img className='fotobook' src={f25} alt='foto5' />
                 </div>
             </div>
 
