@@ -1,13 +1,13 @@
 
 import './Polaroid.css';
-import foto1 from '../imagensDuda/Polaroid/polaroid1.png';
-import foto2 from '../imagensDuda/Polaroid/polaroid2.png';
-import foto3 from '../imagensDuda/Polaroid/polaroid3.png';
-import foto4 from '../imagensDuda/Polaroid/polaroid4.png';
-import foto5 from '../imagensDuda/Polaroid/polaroid5.png';
-import foto6 from '../imagensDuda/Polaroid/polaroid6.png';
-import video1 from '../imagensDuda/Polaroid/VÍDEO1.mp4';
-import video2 from '../imagensDuda/Polaroid/VÍDEO3.mp4';
+import foto1 from '../imagensDuda/Polaroid/polaroid1.png?v=2';
+import foto2 from '../imagensDuda/Polaroid/polaroid2.png?v=2';
+import foto3 from '../imagensDuda/Polaroid/polaroid3.png?v=2';
+import foto4 from '../imagensDuda/Polaroid/polaroid4.png?v=2';
+import foto5 from '../imagensDuda/Polaroid/polaroid5.png?v=2';
+import foto6 from '../imagensDuda/Polaroid/polaroid6.png?v=2';
+import video1 from '../imagensDuda/Polaroid/VÍDEO1.mp4?v=2';
+import video2 from '../imagensDuda/Polaroid/VÍDEO3.mp4?v=2';
 
 
 export default function Polaroid(){

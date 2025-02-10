@@ -36,6 +36,7 @@ scale: 1.1;
     height: 100%;
     object-fit: cover;
     display: block;
+    image-rendering: crisp-edges;
 }
 
 
