@@ -27,6 +27,7 @@ import f25 from '../imagensDuda/book/25.webp'
 
 
 export default function Book() {
+
     return (
         <body className='container-book container-fluid'>
             <br /><br />
@@ -93,7 +94,7 @@ export default function Book() {
             </div>
 
             <div className='container-fluid div-base-card-book'>
-            <div class="card-book shadow">
+                <div class="card-book shadow">
                     <img className='fotobook' src={f15} alt='foto2' />
                 </div>
 

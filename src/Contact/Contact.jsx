@@ -1,5 +1,5 @@
 import './Contact.css'
-import { MdWorkOutline,MdOutlineEmail } from "react-icons/md";
+import { MdWorkOutline, MdOutlineEmail } from "react-icons/md";
 import { IoLocationOutline } from "react-icons/io5";
 
 
@@ -34,13 +34,6 @@ export default function Contact() {
                     <h5>sgomes.eduarda@gmail.com</h5>
                 </div>
 
-                
-
-{/*                 <div className='flex-column div-job'>
-                    <MdWorkOutline  className='icone-email' />
-                    <h5>FORD MODELS</h5>
-                </div> */}
-
                 <div className='flex-column div-andress'>
                     <IoLocationOutline className='icone-email' />
                     <h5>Minas Gerais, Brazil</h5>
@@ -49,7 +42,7 @@ export default function Contact() {
 
             <a className="contato-a">Copyright © 2025 à <strong>Eduarda Gomes</strong>. Todos os direitos reservados.</a>
 
-<br/>
+            <br />
 
 
 
