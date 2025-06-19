@@ -1,9 +1,9 @@
 import './Composit.css';
-import foto1 from "../imagensDuda/composit/1.png?v=2"
-import foto2 from "../imagensDuda/composit/2-2.png?v=2"
-import foto3 from "../imagensDuda/composit/3.png?v=2"
-import foto4 from "../imagensDuda/composit/4-2.png?v=2"
-import foto5 from "../imagensDuda/composit/5-2.png?v=2"
+import foto1 from "../imagensDuda/composit/1.webp"
+import foto2 from "../imagensDuda/composit/2-2.webp"
+import foto3 from "../imagensDuda/composit/3.webp"
+import foto4 from "../imagensDuda/composit/4-2.webp"
+import foto5 from "../imagensDuda/composit/5-2.webp"
 
 
 export default function Composit(){

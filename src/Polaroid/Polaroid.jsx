@@ -1,11 +1,11 @@
 
 import './Polaroid.css';
-import foto1 from '../imagensDuda/Polaroid/polaroid1.png?v=2';
-import foto2 from '../imagensDuda/Polaroid/polaroid2.png?v=2';
-import foto3 from '../imagensDuda/Polaroid/polaroid3.png?v=2';
-import foto4 from '../imagensDuda/Polaroid/polaroid4.png?v=2';
-import foto5 from '../imagensDuda/Polaroid/polaroid5.png?v=2';
-import foto6 from '../imagensDuda/Polaroid/polaroid6.png?v=2';
+import foto1 from '../imagensDuda/Polaroid/polaroid1.webp';
+import foto2 from '../imagensDuda/Polaroid/polaroid2.webp';
+import foto3 from '../imagensDuda/Polaroid/polaroid3.webp';
+import foto4 from '../imagensDuda/Polaroid/polaroid4.webp';
+import foto5 from '../imagensDuda/Polaroid/polaroid5.webp';
+import foto6 from '../imagensDuda/Polaroid/polaroid6.webp';
 import video1 from '../imagensDuda/Polaroid/VÍDEO1.mp4?v=2';
 import video2 from '../imagensDuda/Polaroid/VÍDEO3.mp4?v=2';
 

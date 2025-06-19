@@ -1,8 +1,8 @@
 import { PDFDocument } from 'pdf-lib';
 import download from "downloadjs";
 
-import foto1 from "../imagensDuda/composit/fotocapaPDF.png";
-import foto2 from "../imagensDuda/composit/compositeverso.png";
+import foto1 from "../imagensDuda/composit/fotocapaPDF.webp";
+import foto2 from "../imagensDuda/composit/compositeverso.webp";
 
 async function carregarArquivo(url) {
     const response = await fetch(url);
